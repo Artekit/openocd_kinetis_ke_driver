@@ -1,0 +1,21 @@
+This is a temporary repository that holds a flash driver for the KE02, KE04 and KE06 family of Freescale Kinetis microcontrollers, for OpenOCD.
+Copyright (C) 2015 Ivan Meleca (ivan@artekit.eu). http://www.artekit.eu
+ 
+Modified from kinetis.c
+Copyright (C) 2011 by Mathias Kuester
+kesmtp@freenet.de
+
+Copyright (C) 2011 sleep(5) ltd
+tomas@sleepfive.com
+
+Copyright (C) 2012 by Christopher D. Kilgour
+techie at whiterocker.com
+
+Copyright (C) 2013 Nemui Trinomius
+nemuisan_kawausogasuki@live.jp
+
+Copyright (C) 2015 Tomas Vanek
+vanekt@fbl.cz
+
+OpenOCD, the Open On-Chip Debugger has been created by Dominic Rath as part of a diploma thesis at the University of Applied Sciences, FH-Augsburg.
+Find the OpenOCD documentation and code here: http://openocd.org
